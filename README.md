@@ -1,1 +1,2 @@
-# Jam-Burger.github.io
+# Jam-Burger.me
+A website made with ReactJS.
